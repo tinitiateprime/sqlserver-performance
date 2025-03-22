@@ -1,7 +1,7 @@
 # sqlserver-performance
 
--- Index
--- Partitions
--- Explain Plan
--- Profiling
--- System Views
+* Index
+* Partitions
+* Explain Plan
+* Profiling
+* System Views
